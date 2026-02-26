@@ -9,7 +9,7 @@
    EXACT Roovix COLOR MATCHING
    ======================================== */
 
-@import "tailwindcss";
+@import url("https://web-style.roovix.com/v-2.0.0/roovix-base.css");
 
 /* ========================================
    1. CORE SPACING SYSTEM (8px grid)
