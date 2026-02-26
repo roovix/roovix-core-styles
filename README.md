@@ -18,7 +18,7 @@
 
 ## 🆘 Getting Help
 
-- **Email**: design-system@roovix.com
+- **Email**: web-style@roovix.com
 - **Documentation**: https://web-style.roovix.com
 
 ---
