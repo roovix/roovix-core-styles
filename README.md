@@ -849,7 +849,7 @@ MIT © Roovix. All rights reserved.
 
 **Made with ❤️ by the Roovix Team**
 
-[![Twitter](https://img.shields.io/twitter/follow/roovix?style=social)](https://twitter.com/roovix)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@roovix)
 
 **Questions?** Contact #design-system on Slack
 
